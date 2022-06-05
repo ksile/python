@@ -1,2 +1,2 @@
-dictName = {"Kai":"Waghäusel", "Klaus":"Leipzig","Frank":"Braunschweig"}
+dictName = {"Kai":"Waghaeusel", "Klaus":"Leipzig","Frank":"Braunschweig"}
 print(dictName["Kai"])
