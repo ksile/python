@@ -1,0 +1,198 @@
+Git client plugin (git-client): 3.11.2
+Warnings Next Generation Plugin (warnings-ng): 9.15.0
+Green Balls (greenballs): 1.15.1
+GitHub Pipeline for Blue Ocean (blueocean-github-pipeline): 1.25.5
+Configuration as Code Plugin (configuration-as-code): 1512.vb_79d418d5fc8
+Matrix Authorization Strategy Plugin (matrix-auth): 3.1.5
+Extended Choice Parameter Plug-In (extended-choice-parameter): 0.82
+Extensible Choice Parameter plugin (extensible-choice-parameter): 1.8.0
+Autofavorite for Blue Ocean (blueocean-autofavorite): 1.2.5
+Config API for Blue Ocean (blueocean-config): 1.25.5
+Parameterized Trigger plugin (parameterized-trigger): 2.41
+Mask Passwords Plugin (mask-passwords): 3.3
+Bitbucket Pipeline for Blue Ocean (blueocean-bitbucket-pipeline): 1.25.5
+description setter plugin (description-setter): 1.10
+Embeddable Build Status Plugin (embeddable-build-status): 237.v37e2c03964c9
+Variant Plugin (variant): 59.vf075fe829ccb
+JavaBeans Activation Framework (JAF) API (javax-activation-api): 1.2.0-4
+Badge (badge): 1.9.1
+Git plugin (git): 4.11.4
+Extra Columns Plugin (extra-columns): 1.24
+Pipeline: Input Step (pipeline-input-step): 449.v77f0e8b_845c4
+Pipeline: REST API Plugin (pipeline-rest-api): 2.21
+Jakarta Activation API (jakarta-activation-api): 2.0.1-1
+disk-usage plugin (disk-usage): 0.28
+Blue Ocean (blueocean): 1.25.5
+Script Security Plugin (script-security): 1175.v4b_d517d6db_f0
+bouncycastle API Plugin (bouncycastle-api): 2.26
+Common API for Blue Ocean (blueocean-commons): 1.25.5
+Events API for Blue Ocean (blueocean-events): 1.25.5
+Copy Artifact Plugin (copyartifact): 1.46.4
+Pipeline: Model API (pipeline-model-api): 2.2114.v2654ca_721309
+Pipeline GitHub Notify Step Plugin (pipeline-githubnotify-step): 49.vf37bf92d2bc8
+SAP SOI GCP (com.sap.soi.gcp4jenkins): 0.2.8
+JUnit Plugin (junit): 1119.1121.vc43d0fc45561
+Docker Pipeline (docker-workflow): 1.29
+Mercurial plugin (mercurial): 2.15
+Extended Read Permission Plugin (extended-read-permission): 3.2
+Pipeline: Declarative Extension Points API (pipeline-model-extensions): 2.2114.v2654ca_721309
+Timestamper (timestamper): 1.18
+Pipeline: Declarative (pipeline-model-definition): 2.2114.v2654ca_721309
+JavaScript GUI Lib: Handlebars bundle plugin (handlebars): 3.0.8
+Credentials Binding Plugin (credentials-binding): 523.vd859a_4b_122e6
+Authentication Tokens API Plugin (authentication-tokens): 1.4
+Short Workspace Path Plugin (short-workspace-path): 0.3
+Structs Plugin (structs): 324.va_f5d6774f3a_d
+Kubernetes Credentials Plugin (kubernetes-credentials): 0.9.0
+InfluxDB Plugin (influxdb): 3.3
+Checkmarx Plugin (checkmarx): 2021.3.3
+Groovy (groovy): 2.4
+Pub-Sub "light" Bus (pubsub-light): 1.16
+Folders Plugin (cloudbees-folder): 6.740.ve4f4ffa_dea_54
+Email Extension Plugin (email-ext): 2.91
+Blue Ocean Core JS (blueocean-core-js): 1.25.5
+Infrastructure plugin for Publish Over X (publish-over): 0.22
+Run Condition Plugin (run-condition): 1.5
+SSH Credentials Plugin (ssh-credentials): 295.vced876c18eb_4
+Dashboard for Blue Ocean (blueocean-dashboard): 1.25.5
+DataTables.net API Plugin (data-tables-api): 1.12.1-2
+Lockable Resources plugin (lockable-resources): 2.16
+Parameterized Remote Trigger Plugin (Parameterized-Remote-Trigger): 3.1.6.3
+Pipeline Graph Analysis Plugin (pipeline-graph-analysis): 195.v5812d95a_a_2f9
+Config File Provider Plugin (config-file-provider): 3.11.1
+Popper.js API Plugin (popper-api): 1.16.1-2
+Groovy Postbuild (groovy-postbuild): 2.5
+Pipeline: Groovy Libraries (pipeline-groovy-lib): 612.v84da_9c54906d
+Pipeline implementation for Blue Ocean (blueocean-pipeline-api-impl): 1.25.5
+Token Macro Plugin (token-macro): 308.v4f2b_ed62b_b_16
+Command Agent Launcher Plugin (command-launcher): 1.6
+Design Language (jenkins-design-language): 1.25.5
+AnsiColor (ansicolor): 1.0.2
+JQuery3 API Plugin (jquery3-api): 3.6.0-4
+Handy Uri Templates 2.x API Plugin (handy-uri-templates-2-api): 2.1.8-22.v77d5b_75e6953
+Configuration as Code Plugin - Groovy Scripting Extension (configuration-as-code-groovy): 1.1
+Slack Notification Plugin (slack): 616.v03b_1e98d13dd
+JSch dependency plugin (jsch): 0.1.55.61.va_e9ee26616e7
+HTTP Request Plugin (http_request): 1.16
+Pipeline: Multibranch (workflow-multibranch): 716.vc692a_e52371b_
+JavaScript GUI Lib: jQuery bundles (jQuery and jQuery UI) plugin (jquery-detached): 1.2.1
+Workspace Cleanup Plugin (ws-cleanup): 0.42
+Prism API Plugin (prism-api): 1.28.0-2
+GitHub plugin (github): 1.34.5
+Code Coverage API Plugin (code-coverage-api): 3.0.4
+Pipeline: Job (workflow-job): 1207.ve6191ff089f8
+ECharts API Plugin (echarts-api): 5.3.3-1
+Safe Restart Plugin (saferestart): 0.3
+Pipeline SCM API for Blue Ocean (blueocean-pipeline-scm-api): 1.25.5
+JAXB plugin (jaxb): 2.3.6-1
+REST Implementation for Blue Ocean (blueocean-rest-impl): 1.25.5
+Web for Blue Ocean (blueocean-web): 1.25.5
+H2 API Plugin (h2-api): 1.4.199
+Resource Disposer Plugin (resource-disposer): 0.19
+Favorite (favorite): 2.4.1
+SOI Integration Test (com.sap.soi.integrationtTest4Jenkins): 0.2.9
+Pipeline Maven Integration Plugin (pipeline-maven): 1161.v89a_7dcec5d31
+Javadoc Plugin (javadoc): 217.v905b_86277a_2a_
+Pipeline: GitHub (pipeline-github): 2.8-138.d766e30bb08b
+Kubernetes plugin (kubernetes): 3670.v6ca_059233222
+GitHub API Plugin (github-api): 1.303-400.v35c2d8258028
+Pipeline: Stage View Plugin (pipeline-stage-view): 2.21
+i18n for Blue Ocean (blueocean-i18n): 1.25.5
+Forensics API Plugin (forensics-api): 1.15.1
+Durable Task Plugin (durable-task): 496.va67c6f9eefa7
+Checks API plugin (checks-api): 1.7.4
+Basic Branch Build Strategies Plugin (basic-branch-build-strategies): 1.3.2
+Java JSON Web Token (JJWT) Plugin (jjwt-api): 0.11.5-77.v646c772fddb_0
+GitHub Authentication plugin (github-oauth): 0.39
+JavaScript GUI Lib: Moment.js bundle plugin (momentjs): 1.1.1
+SSH server (sshd): 3.1.0
+Apache HttpComponents Client 4.x API Plugin (apache-httpcomponents-client-4-api): 4.5.13-138.v4e7d9a_7b_a_e61
+Jakarta Mail API (jakarta-mail-api): 2.0.0-6
+SAML Plugin (saml): 2.333.vc81e525974a_c
+SnakeYAML API Plugin (snakeyaml-api): 1.30.2-76.vc104f7ce9870
+Server Sent Events (SSE) Gateway Plugin (sse-gateway): 1.25
+Parameterized Scheduler (parameterized-scheduler): 1.0
+gcp (gcp): 0.2.5-SoftwareOnlineImport
+SSH Pipeline Steps (ssh-steps): 2.0.0
+Kubernetes Client API Plugin (kubernetes-client-api): 5.12.2-193.v26a_6078f65a_9
+SSH Build Agents plugin (ssh-slaves): 1.834.v622da_57f702c
+Credentials Plugin (credentials): 1139.veb_9579fca_33b_
+Pipeline: Nodes and Processes (workflow-durable-task-step): 1199.v02b_9244f8064
+Publish Over SSH (publish-over-ssh): 1.22
+Popper.js 2 API Plugin (popper2-api): 2.11.5-2
+Sidebar Link (sidebar-link): 2.2.0
+SCM API Plugin (scm-api): 620.v0a_5b_1f8054c0
+Display URL API (display-url-api): 2.3.6
+REST API for Blue Ocean (blueocean-rest): 1.25.5
+Logstash (logstash): 2.5.0205.vd05825ed46bd
+Display URL for Blue Ocean (blueocean-display-url): 2.4.1
+Pipeline (workflow-aggregator): 590.v6a_d052e5a_a_b_5
+build user vars plugin (build-user-vars-plugin): 1.8
+Blue Ocean Pipeline Editor (blueocean-pipeline-editor): 1.25.5
+Rebuilder (rebuild): 1.34
+JavaMail API (javax-mail-api): 1.6.2-5
+Pipeline: Build Step (pipeline-build-step): 2.18
+GitHub Branch Source Plugin (github-branch-source): 1677.v731f745ea_0cf
+jnr-posix API Plugin (jnr-posix-api): 3.1.15-1
+Pipeline: Step API (workflow-step-api): 639.v6eca_cd8c04a_a_
+Webhook Step Plugin (webhook-step): 173.vfa_b_93560b_977
+Matrix Project Plugin (matrix-project): 772.v494f19991984
+Plain Credentials Plugin (plain-credentials): 139.ved2b_9cf7587b
+Metrics Plugin (metrics): 4.2.10-389.v93143621b_050
+Pipeline: Stage Step (pipeline-stage-step): 293.v200037eefcd5
+Performance Plugin (performance): 3.20
+Pipeline: API (workflow-api): 1188.v0016b_4f29881
+Active Choices Plug-in (uno-choice): 2.5.6
+Trilead API Plugin (trilead-api): 1.71.v9e7860a_67a_df
+Synopsys Detect plugin (blackduck-detect): 7.0.0
+Pipeline: Stage Tags Metadata (pipeline-stage-tags-metadata): 2.2114.v2654ca_721309
+Bitbucket Branch Source Plugin (cloudbees-bitbucket-branch-source): 784.v7fcdc7c670f6
+jQuery plugin (jquery): 1.12.4-1
+Nested View Plugin (nested-view): 1.24
+Git Parameter Plug-In (git-parameter): 0.9.13
+JWT for Blue Ocean (blueocean-jwt): 1.25.5
+Bootstrap 5 API Plugin (bootstrap5-api): 5.1.3-7
+Branch API Plugin (branch-api): 2.1046.v0ca_37783ecc5
+Filesystem Trigger Plug-in (fstrigger): 0.41
+OWASP Dependency-Check Plugin (dependency-check-jenkins-plugin): 5.1.2
+WMI Windows Agents Plugin (windows-slaves): 1.8.1
+Maven Integration plugin (maven-plugin): 3.19
+Docker Commons Plugin (docker-commons): 1.19
+OkHttp Plugin (okhttp-api): 4.9.3-108.v0feda04578cf
+Active Directory plugin (active-directory): 2.25.1
+OWASP Markup Formatter Plugin (antisamy-markup-formatter): 2.7
+Robot Framework plugin (robot): 3.2.0
+Job DSL (job-dsl): 1.81
+Pipeline Utility Steps (pipeline-utility-steps): 2.13.0
+Pipeline: Basic Steps (workflow-basic-steps): 986.v6b_9c830a_6b_37
+SSH Agent Plugin (ssh-agent): 295.v9ca_a_1c7cc3a_a_
+Bootstrap 4 API Plugin (bootstrap4-api): 4.6.0-3
+Jira plugin (jira): 3.6
+Job Import Plugin (job-import-plugin): 3.4
+Caffeine API Plugin (caffeine-api): 2.9.3-65.v6a_47d0f4d1fe
+SonarQube Scanner for Jenkins (sonar): 2.14
+Conditional BuildStep (conditional-buildstep): 1.4.1
+Pipeline: Milestone Step (pipeline-milestone-step): 101.vd572fef9d926
+HTML Publisher plugin (htmlpublisher): 1.30
+Dashboard View (dashboard-view): 2.447.vda_124dd35f11
+Git Pipeline for Blue Ocean (blueocean-git-pipeline): 1.25.5
+Pipeline: Groovy (workflow-cps): 2759.v87459c4eea_ca_
+Personalization for Blue Ocean (blueocean-personalization): 1.25.5
+Pipeline: Supporting APIs (workflow-support): 838.va_3a_087b_4055b
+Environment Injector Plugin (envinject): 2.3.0
+Pipeline: SCM Step (workflow-scm-step): 400.v6b_89a_1317c9a_
+Pipeline: GitHub Groovy Libraries (pipeline-github-lib): 38.v445716ea_edda_
+JaCoCo plugin (jacoco): 3.3.2
+JavaScript GUI Lib: ACE Editor bundle plugin (ace-editor): 1.1
+Jackson 2 API Plugin (jackson2-api): 2.13.3-285.vc03c0256d517
+Scriptler (scriptler): 3.3
+SAP SOI Core (com.sap.soi.core4jenkins): 0.2.7
+Oracle Java SE Development Kit Installer Plugin (jdk-tool): 1.5
+GIT server Plugin (git-server): 1.10
+Cobertura Plugin (cobertura): 1.17
+Plugin Utilities API Plugin (plugin-util-api): 2.17.0
+Font Awesome API Plugin (font-awesome-api): 6.1.1-1
+Seed Jenkins plug-in (seed): 2.1.4
+Analysis Model API Plugin (analysis-model-api): 10.15.0
+Mailer Plugin (mailer): 435.v79ef3972b_5c7
+EnvInject API Plugin (envinject-api): 1.7
